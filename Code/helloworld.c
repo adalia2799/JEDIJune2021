@@ -1,7 +1,14 @@
+//HELLO WORLD
 
 #include <stdio.h>
 
-int main(){
+void helloworld(){
 	printf("hello world!");
+	printf("you are way too sexy");
+}
+
+
+int main(){
+	helloworld();
 }
 
