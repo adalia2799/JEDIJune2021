@@ -87,3 +87,7 @@ lint/tmp/
 
 # Android Profiling
 *.hprof
+
+#Complied files
+*.o
+
