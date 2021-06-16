@@ -7,6 +7,10 @@ void helloworld(){
 	printf("you are way too sexy");
 }
 
+void dingDong(){
+	printf("SOMething ding dong.....")
+}
+
 
 int main(){
 	helloworld();
