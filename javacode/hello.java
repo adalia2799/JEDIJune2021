@@ -2,6 +2,8 @@
 
 package experiment;
 
+
+
 public class hello{
 	public static void main(String[] args){
 		System.out.println("HEllo world");
@@ -9,6 +11,13 @@ public class hello{
 	}
 	public void greeting(String name){
 		System.out.println("good afternoon " + name);
+	}
+
+	public void namaste(){
+	
+	
+		System.out.println("namaste world!!");
+	
 	}
 }
 
